@@ -1,4 +1,4 @@
-class hii
+class na
 {
 	public static void main(String args[]
 		{
