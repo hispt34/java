@@ -2,6 +2,6 @@ class na
 {
 	public static void main(String args[]
 		{
-		System.out.println("hii welcome to jenkins")
+		System.out.println("hii welcome to jenkins");
 		}
 }
